@@ -13,3 +13,6 @@
   <summary>:zap: Udemy Certificates.</summary>
   </details>
 
+<details>
+  <summary>:zap: SoloLearn Certificates.</summary>
+</details>
