@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi I'm Eya Garci 👋
 
-<!--
-**eyagarci/eyagarci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Machine Learning, and Computer Vision Projects.
+- 👀 I’m interested in anything related to ARTIFICIAL INTELLIGENCE !!
+- 👯 I’m looking to collaborate on any interesting project
+- 💬 Ask me about anything releated AI field.
+- 📫 How to reach me: You can contact me through mail preferably garci.eya@gmail.com or LinkedIn.
+- ⚡ Fun fact:  Love to work on new projects
 
-Here are some ideas to get you started:
+## Contact Me
+<a href="https://www.linkedin.com/in/eya-garci-159285a7/">
+<img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
